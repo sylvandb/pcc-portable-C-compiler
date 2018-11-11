@@ -24,4 +24,4 @@ to create the import branch. Later updates are imported directly from the upstre
 to update the git import branch.
 
 ## License
-The source is licensed with a [BSD style license](http://pcc.ludd.ltu.se/licenses/) to the best of my knowledge. I retrieved the license information on 2018-11-11, and after removing styles, divs and unrelated navigation stored it here as [LICENSE.html](./LICENSE.html) for reference.
+The source is licensed with a [BSD style license](http://pcc.ludd.ltu.se/licenses/) to the best of my knowledge. I retrieved the license information on 2018-11-11, and after removing styles, divs and unrelated navigation stored it here as [LICENSE.md](./LICENSE.md) for reference.
